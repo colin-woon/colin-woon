@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67ab3079f8633434827aceaf?variant=dark&roadmaps=computer-science)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67ab3079f8633434827aceaf?variant=dark&roadmaps=computer-science" alt="roadmap.sh"/></a>
 <!--
 **colin-woon/colin-woon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
