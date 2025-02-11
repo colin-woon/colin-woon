@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning DevOps
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a swimming coach 🏊 and also a ex-barista ☕
+
+<img src="https://raw.githubusercontent.com/colin-woon/colin-woon/output/snake.svg" alt="Snake animation" />
