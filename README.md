@@ -6,7 +6,7 @@
 
 ###
 
-- 🔭 I’m currently working on **42 Core Program (Mastery in Computer Science)**
+- 🔭 I’m currently working on **42 Core Program (Competency in Computer Science)**
 - 🌱 I’m currently learning **DevOps**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a swimming coach 🏊 and also a ex-barista ☕**
