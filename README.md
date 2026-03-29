@@ -1,13 +1,9 @@
 ## Hi there, welcome to my github! 👋
 
-<div align="center">
-  <a href="https://roadmap.sh/u/colinwoon"><img src="https://roadmap.sh/card/tall/67ab3079f8633434827aceaf?variant=dark&roadmaps=computer-science%2Cdevops%2Clinux%2Cfull-stack" alt="roadmap.sh"/></a>
-</div>  
-
 ###
 
 - 🔭 I’m currently working on **42 Core Program (Competency in Computer Science)**
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Next.js, Typescript, Golang**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a swimming coach 🏊 and also a ex-barista ☕**
 
