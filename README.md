@@ -2,8 +2,8 @@
 
 ###
 
-- 🔭 I’m currently working on **42 Core Program (Competency in Computer Science)**
-- 🌱 I’m currently learning **Next.js, Typescript, Golang**
+- 🔭 I’ve completed the **42 Core Program (Competency in Computer Science)**!
+- 🌱 I’m currently learning **Data Engineering through Data Engineering ZoomCamp**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a swimming coach 🏊 and also a ex-barista ☕**
 
